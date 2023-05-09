@@ -1,0 +1,329 @@
+[2023-05-05 18:12:36.605] [info]  application version = 4.0.0
+[2023-05-05 18:12:36.637] [info]  Hello, log
+[2023-05-05 18:12:36.640] [warn]  Some problem appears
+[2023-05-05 18:31:19.909] [info]  application version = 4.0.0
+[2023-05-05 18:31:19.919] [info]  Hello, log
+[2023-05-05 18:31:19.922] [warn]  Some problem appears
+[2023-05-05 18:33:44.254] [info]  application version = 4.0.0
+[2023-05-05 18:33:44.266] [info]  Hello, log
+[2023-05-05 18:33:44.623] [info]  checking-for-update
+[2023-05-05 18:33:45.697] [info]  error in auto updater HttpError: 404 
+"method: GET url: https://github.com/ibtissamOlearn/https://github.com/ibtissamOlearn/test/releases.atom\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "cache-control": "no-cache",
+  "content-encoding": "gzip",
+  "content-length": "40",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-type": "text/plain; charset=utf-8",
+  "date": "Fri, 05 May 2023 17:33:45 GMT",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-request-id": "6E9C:994A:84366B:8619ED:64553DF9",
+  "x-xss-protection": "0",
+  "set-cookie": [
+    "_gh_sess=0e3l6PRyKmv5avluolqT3QN4%2Flo6eNp3SQ%2BTFOy4x63n6ePGWUuiUwo1NF63lh391WBscZAabnD3s%2B5Ziu%2FbNHfx6Nco%2FwAISYkxkEVyhIyaLqiASVA8vuxk%2FafAfv6XfTgL1xq0fZ6nkUUAbms4ByBM7ptWqBdb1TWvB7JNKZh5F1ZT2024aDeoqjzh7qMNpvi0YHroQtJgTPepK2GkEIHZXaHtMTXTK80YSero0WupXCGPs9%2F%2FvVgkN3Xrd6tObf86PhI7C3Twzr2Pf5qztg%3D%3D--IaUuvr4wDeW8L8og--Sa15SP8kPQCSEefy%2FRKbLg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.783599681.1683308025; Path=/; Domain=github.com; Expires=Sun, 05 May 2024 17:33:45 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Sun, 05 May 2024 17:33:45 GMT; HttpOnly; Secure; SameSite=Lax"
+  ]
+}
+[2023-05-05 22:32:11.106] [info]  application version = 1.0.0
+[2023-05-05 22:32:11.154] [info]  Hello, log
+[2023-05-05 22:32:11.477] [info]  checking-for-update
+[2023-05-05 22:32:12.492] [info]  error in auto updater HttpError: 404 
+"method: GET url: https://github.com/ibtissamOlearn/https://github.com/ibtissamOlearn/test/releases.atom\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "cache-control": "no-cache",
+  "content-encoding": "gzip",
+  "content-length": "40",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-type": "text/plain; charset=utf-8",
+  "date": "Fri, 05 May 2023 21:32:12 GMT",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-request-id": "6211:2F51:4D637A6:4E66873:645575DC",
+  "x-xss-protection": "0",
+  "set-cookie": [
+    "_gh_sess=XoGKV%2FX0N1veft%2FJowDjfySOfc8GCmZxXRr%2BB1uk%2Byso8LtZKVQc9bbSbES3V4VhoqPVeWfyLtax5k3VtIH%2FkyBaHflgv26WSOHha7V8onRr%2F6XepxhmIuqg4H4IGJLmOd19HEpNmwhp6JQG%2F2cHgd1SIEkq%2Bu9VGhgE%2BmWc5i%2BZTG%2BEtyoiQHd6WDcg7Vr0Nf2ilYuuGzFgLb%2FEqWHfCOUqnWLccztIJ7P39bAZ6XVdD63xyR5eBg6I4vFwW0zmtJNe8LGaxcFOVhaMKXTFLw%3D%3D--p8YcKBF9zhZM0IUy--PaXfV7F6uZHq4UVUUeCJeA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.2006069737.1683322332; Path=/; Domain=github.com; Expires=Sun, 05 May 2024 21:32:12 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Sun, 05 May 2024 21:32:12 GMT; HttpOnly; Secure; SameSite=Lax"
+  ]
+}
+[2023-05-05 22:38:47.167] [info]  application version = 1.0.0
+[2023-05-05 22:38:47.196] [info]  Hello, log
+[2023-05-05 22:38:47.393] [info]  checking-for-update
+[2023-05-05 22:38:48.093] [info]  error in auto updater Error: Unable to find latest version on GitHub (https://api.github.com/repos/ibtissamOlearn/https://github.com/ibtissamOlearn/test2.git/releases/latest), please ensure a production release exists: HttpError: 404 
+"method: GET url: https://api.github.com/repos/ibtissamOlearn/https://github.com/ibtissamOlearn/test2.git/releases/latest\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "access-control-allow-origin": "*",
+  "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset",
+  "content-encoding": "gzip",
+  "content-security-policy": "default-src 'none'",
+  "content-type": "application/json; charset=utf-8",
+  "date": "Fri, 05 May 2023 21:38:48 GMT",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "Accept-Encoding, Accept, X-Requested-With",
+  "x-accepted-oauth-scopes": "repo",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-api-version-selected": "2022-11-28",
+  "x-github-media-type": "github.v3; format=json",
+  "x-github-request-id": "64F4:11E97:591B6CA:59DB3CF:64557768",
+  "x-oauth-scopes": "admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, admin:ssh_signing_key, audit_log, codespace, delete:packages, delete_repo, gist, notifications, project, repo, user, workflow, write:discussion, write:packages",
+  "x-ratelimit-limit": "5000",
+  "x-ratelimit-remaining": "4999",
+  "x-ratelimit-reset": "1683326328",
+  "x-ratelimit-resource": "core",
+  "x-ratelimit-used": "1",
+  "x-xss-protection": "0"
+}
+    at createHttpError (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:82:26)
+    at ClientRequest.emit (node:events:513:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49206)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+[2023-05-05 22:42:52.011] [info]  application version = 1.0.0
+[2023-05-05 22:42:52.047] [info]  Hello, log
+[2023-05-05 22:42:52.288] [info]  checking-for-update
+[2023-05-05 22:42:53.548] [info]  error in auto updater Error: Unable to find latest version on GitHub (https://api.github.com/repos/ibtissamOlearn/https://github.com/ibtissamOlearn/test2.git/releases/latest), please ensure a production release exists: HttpError: 404 
+"method: GET url: https://api.github.com/repos/ibtissamOlearn/https://github.com/ibtissamOlearn/test2.git/releases/latest\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "access-control-allow-origin": "*",
+  "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset",
+  "content-encoding": "gzip",
+  "content-security-policy": "default-src 'none'",
+  "content-type": "application/json; charset=utf-8",
+  "date": "Fri, 05 May 2023 21:42:53 GMT",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "Accept-Encoding, Accept, X-Requested-With",
+  "x-accepted-oauth-scopes": "repo",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-api-version-selected": "2022-11-28",
+  "x-github-media-type": "github.v3; format=json",
+  "x-github-request-id": "EAFC:2EA1:378BF0D:380CB74:6455785D",
+  "x-oauth-scopes": "admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, admin:ssh_signing_key, audit_log, codespace, delete:packages, delete_repo, gist, notifications, project, repo, user, workflow, write:discussion, write:packages",
+  "x-ratelimit-limit": "5000",
+  "x-ratelimit-remaining": "4998",
+  "x-ratelimit-reset": "1683326328",
+  "x-ratelimit-resource": "core",
+  "x-ratelimit-used": "2",
+  "x-xss-protection": "0"
+}
+    at createHttpError (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:82:26)
+    at ClientRequest.emit (node:events:513:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49206)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+[2023-05-05 22:45:19.178] [info]  application version = 1.0.0
+[2023-05-05 22:45:19.188] [info]  Hello, log
+[2023-05-05 22:45:19.423] [info]  checking-for-update
+[2023-05-05 22:45:37.459] [info]  update-available
+[2023-05-05 22:50:00.282] [info]  application version = 1.0.0
+[2023-05-05 22:50:00.292] [info]  Hello, log
+[2023-05-05 22:50:00.546] [info]  checking-for-update
+[2023-05-05 22:50:08.697] [info]  update-available
+[2023-05-05 22:56:16.383] [info]  application version = 1.0.0
+[2023-05-05 22:56:16.392] [info]  Hello, log
+[2023-05-05 22:56:16.645] [info]  checking-for-update
+[2023-05-05 22:56:20.543] [info]  update-available
+[2023-05-07 17:54:06.680] [info]  application version = 1.0.0
+[2023-05-07 17:54:06.723] [info]  Hello, log
+[2023-05-07 17:54:07.098] [info]  checking-for-update
+[2023-05-07 17:54:07.917] [info]  error in auto updater Error: Unable to find latest version on GitHub (https://api.github.com/repos/ibtissamOlearn/test2/releases/latest), please ensure a production release exists: HttpError: 401 
+"method: GET url: https://api.github.com/repos/ibtissamOlearn/test2/releases/latest\n\n          Data:\n          {\"message\":\"Bad credentials\",\"documentation_url\":\"https://docs.github.com/rest\"}\n          "
+Headers: {
+  "access-control-allow-origin": "*",
+  "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset",
+  "content-length": "80",
+  "content-security-policy": "default-src 'none'",
+  "content-type": "application/json; charset=utf-8",
+  "date": "Sun, 07 May 2023 16:54:07 GMT",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-media-type": "github.v3; format=json",
+  "x-github-request-id": "6B60:11683:12D9E3C:1316EE6:6457D7AF",
+  "x-ratelimit-limit": "60",
+  "x-ratelimit-remaining": "55",
+  "x-ratelimit-reset": "1683480364",
+  "x-ratelimit-resource": "core",
+  "x-ratelimit-used": "5",
+  "x-xss-protection": "0"
+}
+    at createHttpError (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:14:12)
+    at IncomingMessage.<anonymous> (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:147:28)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2023-05-07 17:56:57.855] [info]  application version = 1.0.0
+[2023-05-07 17:56:57.871] [info]  Hello, log
+[2023-05-07 17:56:58.233] [info]  checking-for-update
+[2023-05-07 17:56:59.843] [info]  error in auto updater Error: Unable to find latest version on GitHub (https://api.github.com/repos/ibtissamOlearn/test2/releases/latest), please ensure a production release exists: HttpError: 401 
+"method: GET url: https://api.github.com/repos/ibtissamOlearn/test2/releases/latest\n\n          Data:\n          {\"message\":\"Bad credentials\",\"documentation_url\":\"https://docs.github.com/rest\"}\n          "
+Headers: {
+  "access-control-allow-origin": "*",
+  "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset",
+  "content-length": "80",
+  "content-security-policy": "default-src 'none'",
+  "content-type": "application/json; charset=utf-8",
+  "date": "Sun, 07 May 2023 16:56:59 GMT",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-media-type": "github.v3; format=json",
+  "x-github-request-id": "6CB4:F781:124BE20:12893B8:6457D85B",
+  "x-ratelimit-limit": "60",
+  "x-ratelimit-remaining": "54",
+  "x-ratelimit-reset": "1683480364",
+  "x-ratelimit-resource": "core",
+  "x-ratelimit-used": "6",
+  "x-xss-protection": "0"
+}
+    at createHttpError (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:14:12)
+    at IncomingMessage.<anonymous> (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:147:28)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2023-05-07 17:59:57.845] [info]  application version = 1.0.0
+[2023-05-07 17:59:57.857] [info]  Hello, log
+[2023-05-07 17:59:58.150] [info]  checking-for-update
+[2023-05-07 17:59:58.995] [info]  error in auto updater Error: Unable to find latest version on GitHub (https://api.github.com/repos/ibtissamOlearn/test2/releases/latest), please ensure a production release exists: HttpError: 401 
+"method: GET url: https://api.github.com/repos/ibtissamOlearn/test2/releases/latest\n\n          Data:\n          {\"message\":\"Bad credentials\",\"documentation_url\":\"https://docs.github.com/rest\"}\n          "
+Headers: {
+  "access-control-allow-origin": "*",
+  "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset",
+  "content-length": "80",
+  "content-security-policy": "default-src 'none'",
+  "content-type": "application/json; charset=utf-8",
+  "date": "Sun, 07 May 2023 16:59:58 GMT",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-media-type": "github.v3; format=json",
+  "x-github-request-id": "6DA0:F781:126546B:12A2FA5:6457D90E",
+  "x-ratelimit-limit": "60",
+  "x-ratelimit-remaining": "53",
+  "x-ratelimit-reset": "1683480364",
+  "x-ratelimit-resource": "core",
+  "x-ratelimit-used": "7",
+  "x-xss-protection": "0"
+}
+    at createHttpError (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:14:12)
+    at IncomingMessage.<anonymous> (C:\Users\ZRGH5903.AD\Desktop\Documentation\Electron\test2\test2\node_modules\builder-util-runtime\out\httpExecutor.js:147:28)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2023-05-07 18:06:49.881] [info]  application version = 1.0.0
+[2023-05-07 18:06:49.891] [info]  Hello, log
+[2023-05-07 18:06:50.248] [info]  checking-for-update
+[2023-05-07 18:06:51.068] [info]  error in auto updater HttpError: 404 
+"method: GET url: https://github.com/ibtissamOlearn/https://github.com/ibtissamOlearn/test/releases.atom\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "cache-control": "no-cache",
+  "content-encoding": "gzip",
+  "content-length": "40",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-type": "text/plain; charset=utf-8",
+  "date": "Sun, 07 May 2023 17:06:50 GMT",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-request-id": "6FB2:B843:1E0E420:1E8EF22:6457DAAA",
+  "x-xss-protection": "0",
+  "set-cookie": [
+    "_gh_sess=GW5hxQ1NF2b%2BjIxAZAUEPZ1sauSYVPf6aQe9MBi2WOL%2FUJAIGXophABDvO4HYxZwOq16%2F9Pl6qhoRTRMSQcFaQLMLAGrIobRu5i5C0%2Fq9vxu%2FZaBPgm8TqCAB%2FmD5CTSNV3ttsvMYF7aOSoX%2FACamH%2B8u7jn%2BHSr260Li3NgqW51hTKbTLz2ba3ICc4VFVQRAiMHUwcLc6eASegqG69weCQSCNxHTd84y0YjMXkiSkGY9LMiQur%2BuNDcqFoS05fOW%2FtvBLF8fX762uz%2B1FoY4w%3D%3D--TxowDvmyJYwJTH1n--Nm1hFef5%2BBgSmGVYv7kALA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.1482369418.1683479210; Path=/; Domain=github.com; Expires=Tue, 07 May 2024 17:06:50 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Tue, 07 May 2024 17:06:50 GMT; HttpOnly; Secure; SameSite=Lax"
+  ]
+}
+[2023-05-07 18:07:52.280] [info]  application version = 1.0.0
+[2023-05-07 18:07:52.290] [info]  Hello, log
+[2023-05-07 18:07:52.622] [info]  checking-for-update
+[2023-05-07 18:07:53.826] [info]  error in auto updater HttpError: 404 
+"method: GET url: https://github.com/ibtissamOlearn/https://github.com/ibtissamOlearn/test/releases.atom\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "cache-control": "no-cache",
+  "content-encoding": "gzip",
+  "content-length": "40",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-type": "text/plain; charset=utf-8",
+  "date": "Sun, 07 May 2023 17:07:53 GMT",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-request-id": "6FEE:C304:1DFF612:1E80511:6457DAE9",
+  "x-xss-protection": "0",
+  "set-cookie": [
+    "_gh_sess=hNjsGOWTjXLZHVAYYaCfdqJQpwCPxmvRiipdATX2HADpf16w748aPeY7%2FYKGKDfLW9DuZu9z3l9vBJZ9ykJYFdAkI22z9IMtuaKKMRpS6iSDZKQVwPJJr%2B6vG%2FL9%2B4VAcujOKQ5ymVhK%2FoZhUfFJRkgjrAZ6cVLtENLoU0kEtnA1hf8PiRNkP4Ts9ApCpezcxlurKcaQQrVz7us4NvH0GQK%2BdBbtBjKVJGw2J%2FvXLBehfWDYCfqXbk5fEvyMChSEcm7ieJzkywffRrCYDUlyvA%3D%3D--W467EThqodUUL3VZ--e%2FyBkAEUl7iAQjpXhiqXdA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax",
+    "_octo=GH1.1.1624101668.1683479273; Path=/; Domain=github.com; Expires=Tue, 07 May 2024 17:07:53 GMT; Secure; SameSite=Lax",
+    "logged_in=no; Path=/; Domain=github.com; Expires=Tue, 07 May 2024 17:07:53 GMT; HttpOnly; Secure; SameSite=Lax"
+  ]
+}
+[2023-05-07 18:08:52.756] [info]  application version = 1.0.0
+[2023-05-07 18:08:52.774] [info]  Hello, log
+[2023-05-07 18:08:53.177] [info]  checking-for-update
+[2023-05-07 18:08:57.523] [info]  update-available
+[2023-05-08 09:40:36.777] [info]  application version = 1.0.0
+[2023-05-08 09:40:36.788] [info]  Hello, log
+[2023-05-08 09:40:37.207] [info]  checking-for-update
+[2023-05-08 09:40:40.747] [info]  update-available
+[2023-05-08 09:46:17.221] [info]  application version = 1.0.0
+[2023-05-08 09:46:17.239] [info]  Hello, log
+[2023-05-08 09:46:17.612] [info]  checking-for-update
+[2023-05-08 09:46:21.061] [info]  update-available
+[2023-05-08 09:53:46.345] [info]  application version = 1.0.0
+[2023-05-08 09:53:46.354] [info]  Hello, log
+[2023-05-08 09:53:46.588] [info]  checking-for-update
+[2023-05-08 09:53:49.395] [info]  update-available
+[2023-05-08 09:54:36.496] [info]  application version = 1.0.0
+[2023-05-08 09:54:36.505] [info]  Hello, log
+[2023-05-08 09:54:36.721] [info]  checking-for-update
+[2023-05-08 09:54:39.557] [info]  update-available
+[2023-05-08 10:12:40.681] [info]  application version = 1.0.0
+[2023-05-08 10:12:40.688] [info]  Hello, log
+[2023-05-08 10:12:40.871] [info]  checking-for-update
+[2023-05-08 10:12:53.253] [info]  update-available
+[2023-05-08 10:12:53.258] [info]  error in auto updater ReferenceError: dialog is not defined
+[2023-05-08 10:13:37.508] [info]  application version = 1.0.0
+[2023-05-08 10:13:37.516] [info]  Hello, log
+[2023-05-08 10:13:37.707] [info]  checking-for-update
+[2023-05-08 10:13:43.901] [info]  update-available
+[2023-05-08 10:13:43.906] [info]  error in auto updater ReferenceError: dialog is not defined
+[2023-05-08 10:14:14.846] [info]  application version = 1.0.0
+[2023-05-08 10:14:14.854] [info]  Hello, log
+[2023-05-08 10:14:15.044] [info]  checking-for-update
+[2023-05-08 10:14:18.115] [info]  update-available
+[2023-05-08 10:14:18.129] [info]  error in auto updater ReferenceError: dialog is not defined
+[2023-05-08 10:21:07.627] [info]  application version = 1.0.0
+[2023-05-08 10:21:07.635] [info]  Hello, log
+[2023-05-08 10:21:07.822] [info]  checking-for-update
+[2023-05-08 10:21:11.000] [info]  update-available

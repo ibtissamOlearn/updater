@@ -1,0 +1,10 @@
+{"level":"info","message":"checking for update...","timestamp":"2023-05-09T11:29:46.666Z"}
+{"level":"info","message":"error in auto updater Error: ENOENT: no such file or directory, open 'C:\\Users\\ZRGH5903.AD\\Desktop\\demo\\test2\\node_modules\\electron\\dist\\resources\\app-update.yml'","timestamp":"2023-05-09T13:26:47.530Z"}
+{"level":"info","message":"checking for update...","timestamp":"2023-05-09T13:27:21.305Z"}
+{"level":"info","message":"error in auto updater Error: ENOENT: no such file or directory, open 'C:\\Users\\ZRGH5903.AD\\Desktop\\demo\\test2\\node_modules\\electron\\dist\\resources\\app-update.yml'","timestamp":"2023-05-09T13:27:25.517Z"}
+{"level":"info","message":"checking for update...","timestamp":"2023-05-09T13:31:51.578Z"}
+{"level":"info","message":"error in auto updater Error: ENOENT: no such file or directory, open 'C:\\Users\\ZRGH5903.AD\\Desktop\\demo\\test2\\node_modules\\electron\\dist\\resources\\app-update.yml'","timestamp":"2023-05-09T13:31:56.581Z"}
+{"level":"info","message":"checking for update...","timestamp":"2023-05-09T13:40:46.507Z"}
+{"level":"info","message":"error in auto updater Error: ENOENT: no such file or directory, open 'C:\\Users\\ZRGH5903.AD\\Desktop\\demo\\test2\\node_modules\\electron\\dist\\resources\\app-update.yml'","timestamp":"2023-05-09T13:40:50.816Z"}
+{"level":"info","message":"checking for update...","timestamp":"2023-05-09T13:44:08.407Z"}
+{"level":"info","message":"error in auto updater Error: ENOENT: no such file or directory, open 'C:\\Users\\ZRGH5903.AD\\Desktop\\demo\\test2\\node_modules\\electron\\dist\\resources\\app-update.yml'","timestamp":"2023-05-09T13:44:15.100Z"}
